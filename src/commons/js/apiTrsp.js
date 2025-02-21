@@ -1,6 +1,6 @@
 const apiTrsp = (url, param)=> {
     console.log(url);
-    console.lo(param);
+    console.log(param);
 }
 
 export default apiTrsp;
