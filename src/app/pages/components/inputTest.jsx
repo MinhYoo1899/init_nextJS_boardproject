@@ -15,6 +15,7 @@ const InputTest = (props) => {
             onChange={e => {
                 setInputVal(e.target.value);
             }}
+            placeholder="this is input test"
         />
     );
 }
